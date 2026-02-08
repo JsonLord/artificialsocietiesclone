@@ -1,20 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+The App Agentic User Experience (AUX) is a pioneering project exploring the future of human-computer interaction through agent-based systems. This application provides a framework for understanding, simulating, and interacting with intelligent agents in a user-friendly environment.
 
-# Run and deploy your AI Studio app
+Key Features:
+- **Real-time Agent Simulation**: Observe and interact with AI agents in dynamic environments.
+- **Configurable Scenarios**: Customize simulation parameters to explore different agent behaviors and outcomes.
+- **Intuitive Visualization**: Understand complex agent interactions through clear and interactive graphical representations.
+- **Modular Design**: Easily extend and adapt the framework for various research and development purposes.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1xqZdleC0DXZkBdSo-Q7PpesO21AA7Isc
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This project aims to bridge the gap between complex AI research and practical, accessible applications, offering a glimpse into a future where AI agents seamlessly augment our daily digital lives.
